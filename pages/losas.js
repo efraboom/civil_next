@@ -469,7 +469,7 @@ const Losas = () => {
                                 <div className=' mb-1 mt-1 mx-8 w-f'>
                                     <label htmlFor='base_losa'
                                         className=' block font-mono text-gray-900'
-                                    >Base de la losa (metros)):  </label>
+                                    >Base de la losa (metros):  </label>
                                     <Field
                                         className="p-3 bg-gray-200 rounded-lg mb-2 w-full"
                                         type="number"
@@ -486,7 +486,7 @@ const Losas = () => {
                                 <div className=' mb-1 mt-1 mx-8 w-f'>
                                     <label htmlFor='ancho_viga'
                                         className=' block font-mono text-gray-900'
-                                    >Base de la viga (metros)):  </label>
+                                    >Ancho de la viga (metros):  </label>
                                     <Field
                                         className="p-3 bg-gray-200 rounded-lg mb-2 w-full"
                                         type="number"

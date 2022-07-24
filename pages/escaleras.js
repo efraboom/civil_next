@@ -364,7 +364,7 @@ const Escaleras = () => {
                                 <div className=' mb-1 mt-1 mx-8 w-f'>
                                     <label htmlFor='carga_CT2'
                                         className=' block font-mono text-gray-900'
-                                    >Carga distribuida 1 (kN/m^2): </label>
+                                    >Carga distribuida 2 (kN/m^2): </label>
                                     <Field
                                         className="p-3 bg-gray-200 rounded-lg mb-2 w-full"
                                         type="number"
